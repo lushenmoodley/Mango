@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\Mango\\Mango\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9803F360-2DCA-47CE-ADB7-BA4DF2B79AA3}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|c:\\users\\lushe\\onedrive\\documents\\c# projects\\mango\\mango\\mango.services.couponapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9803F360-2DCA-47CE-ADB7-BA4DF2B79AA3}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9803F360-2DCA-47CE-ADB7-BA4DF2B79AA3}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|c:\\users\\lushe\\onedrive\\documents\\c# projects\\mango\\mango\\mango.services.couponapi\\mango.services.couponapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{9803F360-2DCA-47CE-ADB7-BA4DF2B79AA3}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\mango.services.couponapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{9803F360-2DCA-47CE-ADB7-BA4DF2B79AA3}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|c:\\users\\lushe\\onedrive\\documents\\c# projects\\mango\\mango\\mango.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9803F360-2DCA-47CE-ADB7-BA4DF2B79AA3}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,26 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\Mango\\Mango\\Mango.Services.CouponAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Mango.Services.CouponAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\Mango\\Mango\\Mango.Services.CouponAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Mango.Services.CouponAPI\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-06T18:46:16.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Mango.Services.CouponAPI",
-              "DocumentMoniker": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\Mango\\Mango\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
-              "RelativeDocumentMoniker": "Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
-              "ToolTip": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\Mango\\Mango\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
-              "RelativeToolTip": "Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-06T18:46:08.091Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\Mango\\Mango\\Mango.Services.CouponAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Mango.Services.CouponAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\Mango\\Mango\\Mango.Services.CouponAPI\\Program.cs",
+              "RelativeToolTip": "Mango.Services.CouponAPI\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T15:50:46.894Z",
               "EditorCaption": ""
             }
           ]
