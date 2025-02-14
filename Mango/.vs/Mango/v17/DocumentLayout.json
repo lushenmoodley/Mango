@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\Mango\\Mango\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44AB225E-C239-4DA1-A1D8-4A50C5DBC110}|Mango.Web\\Mango.Web.csproj|c:\\users\\lushe\\onedrive\\documents\\c# projects\\mango\\mango\\mango.web\\utility\\staticdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44AB225E-C239-4DA1-A1D8-4A50C5DBC110}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\utility\\staticdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AB225E-C239-4DA1-A1D8-4A50C5DBC110}|Mango.Web\\Mango.Web.csproj|c:\\users\\lushe\\onedrive\\documents\\c# projects\\mango\\mango\\mango.web\\models\\dto\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44AB225E-C239-4DA1-A1D8-4A50C5DBC110}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\models\\dto\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AB225E-C239-4DA1-A1D8-4A50C5DBC110}|Mango.Web\\Mango.Web.csproj|c:\\users\\lushe\\onedrive\\documents\\c# projects\\mango\\mango\\mango.web\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44AB225E-C239-4DA1-A1D8-4A50C5DBC110}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AB225E-C239-4DA1-A1D8-4A50C5DBC110}|Mango.Web\\Mango.Web.csproj|c:\\users\\lushe\\onedrive\\documents\\c# projects\\mango\\mango\\mango.web\\service\\iservice\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44AB225E-C239-4DA1-A1D8-4A50C5DBC110}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\service\\iservice\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\Mango\\Mango\\Mango.Web\\Models\\Dto\\RequestDto.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Models\\Dto\\RequestDto.cs",
+              "ToolTip": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\Mango\\Mango\\Mango.Web\\Models\\Dto\\RequestDto.cs",
+              "RelativeToolTip": "Mango.Web\\Models\\Dto\\RequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T20:12:16.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\Mango\\Mango\\Mango.Web\\Service\\IService\\IBaseService.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Service\\IService\\IBaseService.cs",
+              "ToolTip": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\Mango\\Mango\\Mango.Web\\Service\\IService\\IBaseService.cs",
+              "RelativeToolTip": "Mango.Web\\Service\\IService\\IBaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T20:10:53.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaticDetails.cs",
+              "DocumentMoniker": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\Mango\\Mango\\Mango.Web\\Utility\\StaticDetails.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Utility\\StaticDetails.cs",
+              "ToolTip": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\Mango\\Mango\\Mango.Web\\Utility\\StaticDetails.cs",
+              "RelativeToolTip": "Mango.Web\\Utility\\StaticDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T20:07:53.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\Mango\\Mango\\Mango.Web\\Service\\BaseService.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Service\\BaseService.cs",
+              "ToolTip": "C:\\Users\\lushe\\OneDrive\\Documents\\C# Projects\\Mango\\Mango\\Mango.Web\\Service\\BaseService.cs",
+              "RelativeToolTip": "Mango.Web\\Service\\BaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T19:44:33.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
