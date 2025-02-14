@@ -7,7 +7,17 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": []
+    "ReturnTypes": [
+      {
+        "Type": "Mango.Services.CouponAPI.Models.Dto.ResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "Mango.Services.CouponAPI.Controllers.CouponAPIController",
@@ -24,6 +34,110 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Mango.Services.CouponAPI.Controllers.CouponAPIController",
+    "Method": "DeleteCoupon",
+    "RelativePath": "api/CouponAPI/DeleteCoupon",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Mango.Services.CouponAPI.Models.Dto.ResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Mango.Services.CouponAPI.Controllers.CouponAPIController",
+    "Method": "GetByCode",
+    "RelativePath": "api/CouponAPI/GetByCode/{code}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "code",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Mango.Services.CouponAPI.Models.Dto.ResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Mango.Services.CouponAPI.Controllers.CouponAPIController",
+    "Method": "PostCoupon",
+    "RelativePath": "api/CouponAPI/PostCoupon",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "couponDto",
+        "Type": "Mango.Services.CouponAPI.Models.Dto.CouponDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Mango.Services.CouponAPI.Models.Dto.ResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Mango.Services.CouponAPI.Controllers.CouponAPIController",
+    "Method": "UpdateCoupon",
+    "RelativePath": "api/CouponAPI/UpdateCoupon",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "couponDto",
+        "Type": "Mango.Services.CouponAPI.Models.Dto.CouponDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Mango.Services.CouponAPI.Models.Dto.ResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "Mango.Services.CouponAPI.Controllers.WeatherForecastController",
