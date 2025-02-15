@@ -2,7 +2,7 @@
   {
     "ContainingType": "Mango.Services.CouponAPI.Controllers.CouponAPIController",
     "Method": "Get",
-    "RelativePath": "api/CouponAPI",
+    "RelativePath": "api/coupon",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -22,7 +22,7 @@
   {
     "ContainingType": "Mango.Services.CouponAPI.Controllers.CouponAPIController",
     "Method": "Get",
-    "RelativePath": "api/CouponAPI/{id}",
+    "RelativePath": "api/coupon/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -38,7 +38,7 @@
   {
     "ContainingType": "Mango.Services.CouponAPI.Controllers.CouponAPIController",
     "Method": "DeleteCoupon",
-    "RelativePath": "api/CouponAPI/DeleteCoupon",
+    "RelativePath": "api/coupon/DeleteCoupon",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -64,7 +64,7 @@
   {
     "ContainingType": "Mango.Services.CouponAPI.Controllers.CouponAPIController",
     "Method": "GetByCode",
-    "RelativePath": "api/CouponAPI/GetByCode/{code}",
+    "RelativePath": "api/coupon/GetByCode/{code}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -90,7 +90,7 @@
   {
     "ContainingType": "Mango.Services.CouponAPI.Controllers.CouponAPIController",
     "Method": "PostCoupon",
-    "RelativePath": "api/CouponAPI/PostCoupon",
+    "RelativePath": "api/coupon/PostCoupon",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -116,7 +116,7 @@
   {
     "ContainingType": "Mango.Services.CouponAPI.Controllers.CouponAPIController",
     "Method": "UpdateCoupon",
-    "RelativePath": "api/CouponAPI/UpdateCoupon",
+    "RelativePath": "api/coupon/UpdateCoupon",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
