@@ -4,13 +4,15 @@ using Mango.Web.Utility;
 using Newtonsoft.Json;
 using System.Text;
 using Mango.Web.Utility;
+using System.Net;
+using static Mango.Web.Utility.StaticDetails;
 namespace Mango.Web.Service
 {
     public class BaseService : IBaseService
     {
         private readonly IHttpClientFactory _httpClientFactory;
 
-        private BaseService(IHttpClientFactory httpClientFactory)
+       public BaseService(IHttpClientFactory httpClientFactory)
         {
             _httpClientFactory = httpClientFactory;
         }
@@ -40,13 +42,13 @@ namespace Mango.Web.Service
 
                 case ApiType.DELETE:
 
-                    message.Method = HttpMethod.Post;
+                    message.Method = HttpMethod.Delete;
 
                     break;
 
                 case ApiType.PUT:
 
-                    message.Method = HttpMethod.Post;
+                    message.Method = HttpMethod.Put;
 
                     break;
 
@@ -55,6 +57,51 @@ namespace Mango.Web.Service
                     message.Method = HttpMethod.Get;
 
                     break;
+            }
+
+            apiResponse = await client.SendAsync(message);
+
+            try
+            {
+                switch (apiResponse.StatusCode)
+                {
+                    case HttpStatusCode.NotFound:
+
+                        return new() { IsSuccess = false, Message = "Not Found" };
+
+                        break;
+
+                    case HttpStatusCode.Forbidden:
+                        return new() { IsSuccess = false, Message = "Access Denied" };
+                        break;
+
+                    case HttpStatusCode.Unauthorized:
+                        return new() { IsSuccess = false, Message = "Unauthorized" };
+                        break;
+
+                    case HttpStatusCode.InternalServerError:
+                        return new() { IsSuccess = false, Message = "Internal Server Error" };
+                        break;
+
+                    default:
+                        var apiContent = await apiResponse.Content.ReadAsStringAsync();
+                        var apiResponseDto = JsonConvert.DeserializeObject<ResponseDto>(apiContent);
+                        return apiResponseDto;
+                        break;
+
+
+
+                }
+            }
+            catch (Exception ex)
+            {
+                var dto = new ResponseDto()
+                {
+                    Message = ex.Message.ToString(),
+                    IsSuccess = false
+                };
+
+                return dto;
             }
 
         }
