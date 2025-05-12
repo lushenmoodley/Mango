@@ -32,3 +32,7 @@ C:\Users\lushe\OneDrive\Documents\C# Projects\Mango\Mango\Mango.Web\obj\Debug\ne
 C:\Users\lushe\OneDrive\Documents\C# Projects\Mango\Mango\Mango.Web\obj\Debug\net8.0\Mango.Web.pdb
 C:\Users\lushe\OneDrive\Documents\C# Projects\Mango\Mango\Mango.Web\obj\Debug\net8.0\Mango.Web.genruntimeconfig.cache
 C:\Users\lushe\OneDrive\Documents\C# Projects\Mango\Mango\Mango.Web\obj\Debug\net8.0\ref\Mango.Web.dll
+C:\Users\lushe\OneDrive\Documents\C# Projects\Mango\Mango\Mango.Web\bin\Debug\net8.0\Mango.Web.staticwebassets.endpoints.json
+C:\Users\lushe\OneDrive\Documents\C# Projects\Mango\Mango\Mango.Web\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\lushe\OneDrive\Documents\C# Projects\Mango\Mango\Mango.Web\obj\Debug\net8.0\staticwebassets\msbuild.Mango.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\lushe\OneDrive\Documents\C# Projects\Mango\Mango\Mango.Web\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

@@ -169,3 +169,7 @@ C:\Users\lushe\OneDrive\Documents\C# Projects\Mango\Mango\Mango.Services.CouponA
 C:\Users\lushe\OneDrive\Documents\C# Projects\Mango\Mango\Mango.Services.CouponAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\lushe\OneDrive\Documents\C# Projects\Mango\Mango\Mango.Services.CouponAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\lushe\OneDrive\Documents\C# Projects\Mango\Mango\Mango.Services.CouponAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\lushe\OneDrive\Documents\C# Projects\Mango\Mango\Mango.Services.CouponAPI\bin\Debug\net8.0\Mango.Services.CouponAPI.staticwebassets.endpoints.json
+C:\Users\lushe\OneDrive\Documents\C# Projects\Mango\Mango\Mango.Services.CouponAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\lushe\OneDrive\Documents\C# Projects\Mango\Mango\Mango.Services.CouponAPI\obj\Debug\net8.0\staticwebassets\msbuild.Mango.Services.CouponAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\lushe\OneDrive\Documents\C# Projects\Mango\Mango\Mango.Services.CouponAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
