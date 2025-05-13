@@ -9,7 +9,7 @@ using Microsoft.Identity.Client;
 
 namespace Mango.Services.CouponAPI.Controllers
 {
-    [Route("api/coupon")]
+    [Route("api2/coupon")]
     [ApiController]
     public class CouponAPIController : ControllerBase
     {
