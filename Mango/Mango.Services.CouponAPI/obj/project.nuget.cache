@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ryKIVglalPQ=",
+  "dgSpecHash": "LiPaq9KBKBs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lushe\\OneDrive\\Desktop\\Github\\Mango\\Mango\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
+  "projectFilePath": "C:\\Users\\lushe\\OneDrive\\Desktop\\Personal Projects\\Mango\\Mango\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lushe\\.nuget\\packages\\automapper\\15.0.1\\automapper.15.0.1.nupkg.sha512",
     "C:\\Users\\lushe\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
@@ -90,9 +90,9 @@
       "code": "NU1608",
       "level": "Warning",
       "message": "Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 15.0.1 was resolved.",
-      "projectPath": "C:\\Users\\lushe\\OneDrive\\Desktop\\Github\\Mango\\Mango\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
+      "projectPath": "C:\\Users\\lushe\\OneDrive\\Desktop\\Personal Projects\\Mango\\Mango\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\lushe\\OneDrive\\Desktop\\Github\\Mango\\Mango\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
+      "filePath": "C:\\Users\\lushe\\OneDrive\\Desktop\\Personal Projects\\Mango\\Mango\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
       "libraryId": "AutoMapper",
       "targetGraphs": [
         "net8.0"
