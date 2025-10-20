@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\lushe\\OneDrive\\Desktop\\Personal Projects\\Mango\\Mango\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E1BDD35-499B-41DE-8021-B5DFCB1862E0}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|c:\\users\\lushe\\onedrive\\desktop\\personal projects\\mango\\mango\\mango.services.couponapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E1BDD35-499B-41DE-8021-B5DFCB1862E0}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E1BDD35-499B-41DE-8021-B5DFCB1862E0}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|c:\\users\\lushe\\onedrive\\desktop\\personal projects\\mango\\mango\\mango.services.couponapi\\models\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E1BDD35-499B-41DE-8021-B5DFCB1862E0}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\models\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E1BDD35-499B-41DE-8021-B5DFCB1862E0}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|c:\\users\\lushe\\onedrive\\desktop\\personal projects\\mango\\mango\\mango.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1BDD35-499B-41DE-8021-B5DFCB1862E0}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\lushe\\OneDrive\\Desktop\\Personal Projects\\Mango\\Mango\\Mango.Services.CouponAPI\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Mango.Services.CouponAPI\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\lushe\\OneDrive\\Desktop\\Personal Projects\\Mango\\Mango\\Mango.Services.CouponAPI\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Mango.Services.CouponAPI\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lushe\\OneDrive\\Desktop\\Personal Projects\\Mango\\Mango\\Mango.Services.CouponAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Mango.Services.CouponAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\lushe\\OneDrive\\Desktop\\Personal Projects\\Mango\\Mango\\Mango.Services.CouponAPI\\Program.cs",
+              "RelativeToolTip": "Mango.Services.CouponAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T13:10:46.249Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CouponDto.cs",
-              "DocumentMoniker": "C:\\Users\\lushe\\OneDrive\\Desktop\\Personal Projects\\Mango\\Mango\\Mango.Services.CouponAPI\\Models\\Dto\\CouponDto.cs",
-              "RelativeDocumentMoniker": "Mango.Services.CouponAPI\\Models\\Dto\\CouponDto.cs",
-              "ToolTip": "C:\\Users\\lushe\\OneDrive\\Desktop\\Personal Projects\\Mango\\Mango\\Mango.Services.CouponAPI\\Models\\Dto\\CouponDto.cs",
-              "RelativeToolTip": "Mango.Services.CouponAPI\\Models\\Dto\\CouponDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T13:10:42.477Z",
+              "WhenOpened": "2025-10-20T17:24:52.589Z",
               "EditorCaption": ""
             }
           ]
